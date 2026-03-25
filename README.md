@@ -62,9 +62,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aviral27/aviral27/output/snake.svg" alt="Snake animation" />
-
-###
