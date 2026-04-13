@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Semantic_UI_React-%2335BDB2?style=for-the-badge&logo=SemanticUIReact&logoColor=white"/>
 
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -33,10 +32,8 @@
 <img src="https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
 
-<!-- State / Tools -->
+<!-- State / Realtime -->
 <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io"/>
 
 <!-- Database -->
