@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/EJS-%23B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <!-- State / Realtime -->
 <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white"/>
