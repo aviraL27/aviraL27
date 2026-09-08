@@ -53,10 +53,9 @@
 
 ###
 👨‍💻 About Me
-- 🎓 2nd year undergrad at **IIIT Nagpur**, pursuing B.Tech in Computer Science
-- 🚀 **Head of Technical Operations** at **Elevate**
-- 🎧 When I'm not coding: into **music** 🎵 and hitting the **gym** 💪
-- 🌱 Always exploring new tech in full-stack dev and AI-powered tooling
+- 2nd year undergrad at **IIIT Nagpur**, pursuing B.Tech in Computer Science
+- **Head of Technical Operations** at **Elevate**
+- When I'm not coding: into **music** 🎵 and hitting the **gym** 
 ###
 
 <h3 align="left">📊 GitHub Stats:</h3>
