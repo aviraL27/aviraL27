@@ -250,7 +250,7 @@
 
       <text x="0" y="164" fill="#64748b">PASSIONS      <tspan fill="#94a3b8">::</tspan> <tspan fill="#f1f5f9">Building Systems · Sound Engineering · Gym</tspan></text>
 
-      <text x="0" y="186" fill="#64748b">STATUS        <tspan fill="#94a3b8">::</tspan> <tspan fill="#34d399">🟢 ONLINE</tspan> <tspan fill="#64748b">|</tspan> <tspan fill="#38bdf8">Ready to deploy &amp; collaborate</tspan></text>
+      <text x="0" y="186" fill="#64748b">STATUS        <tspan fill="#94a3b8">::</tspan> <tspan fill="#34d399">🟢 ONLINE</tspan> <tspan fill="#64748b">|</tspan> <tspan fill="#38bdf8">All Systems Nominal</tspan></text>
 
       <line x1="0" y1="202" x2="415" y2="202" stroke="#1e293b" stroke-width="1"/>
 

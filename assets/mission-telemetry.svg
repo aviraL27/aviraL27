@@ -82,6 +82,6 @@
     <circle cx="0" cy="-6" r="32" fill="url(#cell-glow)"/>
     <text x="0" y="-12" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#64748b" letter-spacing="1.5">BEACON STATUS</text>
     <text x="0" y="12" text-anchor="middle" class="mono metric-val" font-size="14" font-weight="bold" fill="#38bdf8">MISSION READY</text>
-    <text x="0" y="28" text-anchor="middle" class="mono" font-size="9.5" fill="#10b981">Seeking Collabs &amp; Builds</text>
+    <text x="0" y="28" text-anchor="middle" class="mono" font-size="9.5" fill="#10b981">All Systems Nominal</text>
   </g>
 </svg>

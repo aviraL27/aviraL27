@@ -1,32 +1,30 @@
 <!-- CYBER-GALAXY AGENT CONSOLE // AVIRAL JOSHI -->
-<p align="center">
-  <img src="./assets/cyber-galaxy-console.svg" width="100%" alt="Aviral Joshi // Cyber Galaxy Console" />
-</p>
+<div align="center">
+  <img src="./assets/cyber-galaxy-console.svg" width="850" alt="Aviral Joshi // Cyber Galaxy Console" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://discord.com/users/460646619805646849">
-    <img src="https://img.shields.io/badge/Discord-460646619805646849-080c14?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Connect-080c14?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aviral-joshi-a98a67373/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aviral_Joshi-080c14?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-080c14?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:aviral270406@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-aviral270406@gmail.com-080c14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-080c14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
-  &nbsp;
-  <a href="https://github.com/aviraL27">
-    <img src="https://img.shields.io/badge/Status-Seeking_Collabs-080c14?style=for-the-badge&logo=statuspage&logoColor=10B981" alt="Status" />
-  </a>
-</p>
+</div>
 
 <br/>
 
 <!-- MISSION TELEMETRY HUD -->
-<p align="center">
-  <img src="./assets/mission-telemetry.svg" width="100%" alt="Mission Telemetry HUD" />
-</p>
+<div align="center">
+  <img src="./assets/mission-telemetry.svg" width="850" alt="Mission Telemetry HUD" />
+</div>
 
 <br/>
 
@@ -55,9 +53,11 @@ When I'm away from the keyboard, you'll find me analyzing complex sound designs,
 
 ## 🌌 `// 02. GALAXY ARMS & CAPABILITIES`
 
-<p align="center">
-  <img src="./assets/galaxy-arms.svg" width="100%" alt="Technical Radar & Galaxy Arms" />
-</p>
+<div align="center">
+  <img src="./assets/galaxy-arms.svg" width="850" alt="Technical Radar &amp; Galaxy Arms" />
+</div>
+
+<br/>
 
 | Galaxy Sector | Architectural Focus | Arsenal & Technologies |
 | :--- | :--- | :--- |
@@ -71,7 +71,7 @@ When I'm away from the keyboard, you'll find me analyzing complex sound designs,
 
 | Mission System | Domain / Orbit | Core Stack | Operational Status |
 | :--- | :--- | :--- | :--- |
-| [**3D UPLIN (SIH)**](https://github.com/adiscripts03/3D_UPLIN_SIH) | Geospatial &amp; 3D Digital Twin | `Python` · `Three.js` · `Unity` · `Spatial AI` | `🟢 SIH National Finalist` |
+| [**3D UPLIN (SIH)**](https://github.com/adiscripts03/3D_UPLIN_SIH) | Geospatial &amp; 3D Digital Twin | `Python` · `Three.js` · `Unity` · `Spatial AI` | `🟢 Completed` |
 | [**LLM Gateway**](https://github.com/aviraL27/llm-gateway) | AI Routing &amp; Orchestration Proxy | `Node.js` · `TypeScript` · `Redis` · `Docker` | `🚀 Active Deployment` |
 | [**Analysis Platform**](https://github.com/aviraL27/analysis-platform) | High-Volume Telemetry &amp; Analytics | `React` · `TypeScript` · `PostgreSQL` · `FastAPI` | `🛰️ Production Orbit` |
 | [**Nyaya AI**](https://github.com/adiscripts03/NYAYA_AI) | Legal Intelligence &amp; Semantic Search | `Python` · `FastAPI` · `LangChain` · `Vector DB` | `🟢 Mission Accomplished` |
@@ -82,36 +82,28 @@ When I'm away from the keyboard, you'll find me analyzing complex sound designs,
 
 ## 📊 `// 04. LIVE TELEMETRY & SATELLITE METRICS`
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aviraL27&show_icons=true&theme=midnight-purple&title_color=00d4ff&text_color=94a3b8&icon_color=a78bfa&bg_color=080c14&hide_border=false&border_color=1e293b" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=aviraL27&theme=midnight-purple&background=080c14&border=1e293b&stroke=00d4ff&ring=a78bfa&fire=00d4ff&currStreakLabel=00d4ff" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aviraL27&theme=midnight-purple&layout=compact&title_color=00d4ff&text_color=94a3b8&bg_color=080c14&hide_border=false&border_color=1e293b" height="145" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=aviraL27&show_icons=true&theme=midnight-purple&title_color=00d4ff&text_color=94a3b8&icon_color=a78bfa&bg_color=080c14&hide_border=false&border_color=1e293b" width="415" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=aviraL27&theme=midnight-purple&background=080c14&border=1e293b&stroke=00d4ff&ring=a78bfa&fire=00d4ff&currStreakLabel=00d4ff" width="415" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aviraL27&theme=midnight-purple&layout=compact&title_color=00d4ff&text_color=94a3b8&bg_color=080c14&hide_border=false&border_color=1e293b" width="380" alt="Top Languages" />
+</div>
 
 <br/>
 
 ## 🎮 `// 05. CELESTIAL ORBIT GRID (CONTRIBUTIONS)`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aviraL27/aviraL27/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aviraL27/aviraL27/output/github-contribution-grid-snake.svg">
-    <img alt="Celestial Contribution Snake" src="https://raw.githubusercontent.com/aviraL27/aviraL27/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aviraL27/aviraL27/output/snake.svg" width="850" alt="Celestial Contribution Snake" />
+</div>
 
 <br/>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=aviraL27&label=ORBIT%20TELEMETRY%20VISITORS&color=00d4ff&style=for-the-badge" alt="Profile Telemetry Views" />
-</p>
-
-<p align="center">
+  <br/><br/>
   <code>[TRANSMISSION END] · AVIRAL JOSHI · ALL SYSTEMS NOMINAL</code>
-</p>
+</div>
