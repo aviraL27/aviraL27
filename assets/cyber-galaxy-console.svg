@@ -69,11 +69,7 @@
       .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', 'Fira Code', Menlo, Monaco, Consolas, monospace; }
       .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
       
-      @keyframes blink {
-        0%, 49% { opacity: 1; }
-        50%, 100% { opacity: 0; }
-      }
-      .cursor-blink { animation: blink 1s infinite; }
+
       
       @keyframes live-pulse {
         0%, 100% { opacity: 0.4; r: 3.5; }
@@ -254,13 +250,10 @@
 
       <line x1="0" y1="202" x2="415" y2="202" stroke="#1e293b" stroke-width="1"/>
 
-      <!-- Interactive Execution Line with Blinking Block Cursor -->
+      <!-- Terminal Execution Line -->
       <text x="0" y="222">
-        <tspan fill="#10b981">aviral@station</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~/projects</tspan><tspan fill="#e2e8f0">$ ./initiate_orbit --target=star-cluster</tspan>
+        <tspan fill="#10b981">aviral@station</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#e2e8f0">$ ./initiate_orbit</tspan>
       </text>
-      
-      <!-- Blinking Cursor Rect -->
-      <rect x="362" y="210" width="8" height="15" fill="#00d4ff" class="cursor-blink"/>
     </g>
 
     <!-- Memory / Sub-status bar -->

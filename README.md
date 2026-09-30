@@ -95,7 +95,7 @@ When I'm away from the keyboard, you'll find me analyzing complex sound designs,
 ## 🎮 `// 05. CELESTIAL ORBIT GRID (CONTRIBUTIONS)`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aviraL27/aviraL27/output/snake.svg" width="850" alt="Celestial Contribution Snake" />
+  <img src="./assets/snake.svg" width="850" alt="Celestial Contribution Snake" />
 </div>
 
 <br/>
