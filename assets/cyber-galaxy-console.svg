@@ -232,28 +232,23 @@
       <line x1="0" y1="12" x2="415" y2="12" stroke="#1e293b" stroke-width="1"/>
 
       <!-- Specs Rows -->
-      <text x="0" y="32" fill="#64748b">OPERATOR      <tspan fill="#94a3b8">::</tspan> <tspan fill="#f1f5f9" font-weight="bold">Aviral Joshi</tspan> <tspan fill="#38bdf8">(@aviraL27)</tspan></text>
+      <text x="0" y="34" fill="#64748b">OPERATOR      <tspan fill="#94a3b8">::</tspan> <tspan fill="#f1f5f9" font-weight="bold">Aviral Joshi</tspan> <tspan fill="#38bdf8">(@aviraL27)</tspan></text>
       
-      <text x="0" y="54" fill="#64748b">ACADEMICS     <tspan fill="#94a3b8">::</tspan> <tspan fill="#a78bfa">IIIT Nagpur</tspan> <tspan fill="#94a3b8">— B.Tech in Computer Science</tspan></text>
+      <text x="0" y="58" fill="#64748b">ACADEMICS     <tspan fill="#94a3b8">::</tspan> <tspan fill="#a78bfa">IIIT Nagpur</tspan> <tspan fill="#94a3b8">— B.Tech in Computer Science</tspan></text>
       
-      <text x="0" y="76" fill="#64748b">APPOINTMENT   <tspan fill="#94a3b8">::</tspan> <tspan fill="#34d399" font-weight="bold">Head of Technical Operations</tspan> <tspan fill="#94a3b8">@ Elevate</tspan></text>
+      <text x="0" y="82" fill="#64748b">APPOINTMENT   <tspan fill="#94a3b8">::</tspan> <tspan fill="#34d399" font-weight="bold">Head of Technical Operations</tspan> <tspan fill="#94a3b8">@ Elevate</tspan></text>
       
-      <text x="0" y="98" fill="#64748b">GALAXY SECTORS<tspan fill="#94a3b8">::</tspan> <tspan fill="#38bdf8">AI Agents</tspan> · <tspan fill="#c084fc">Full-Stack</tspan> · <tspan fill="#fbbf24">Cloud Infra</tspan></text>
+      <text x="0" y="106" fill="#64748b">GALAXY SECTORS<tspan fill="#94a3b8">::</tspan> <tspan fill="#38bdf8">AI Agents</tspan> · <tspan fill="#c084fc">Full-Stack</tspan> · <tspan fill="#fbbf24">Cloud Infra</tspan></text>
 
-      <text x="0" y="120" fill="#64748b">SYS WEAPONS   <tspan fill="#94a3b8">::</tspan> <tspan fill="#f87171">C++</tspan> · <tspan fill="#38bdf8">TypeScript</tspan> · <tspan fill="#4ade80">Node.js</tspan> · <tspan fill="#60a5fa">React</tspan></text>
+      <text x="0" y="130" fill="#64748b">SYS WEAPONS   <tspan fill="#94a3b8">::</tspan> <tspan fill="#f87171">C++</tspan> · <tspan fill="#38bdf8">TypeScript</tspan> · <tspan fill="#4ade80">Node.js</tspan> · <tspan fill="#60a5fa">React</tspan></text>
 
-      <text x="0" y="142" fill="#64748b">DATA FABRIC   <tspan fill="#94a3b8">::</tspan> <tspan fill="#93c5fd">PostgreSQL</tspan> · <tspan fill="#34d399">Supabase</tspan> · <tspan fill="#f43f5e">Redis</tspan> · <tspan fill="#38bdf8">Docker</tspan></text>
+      <text x="0" y="154" fill="#64748b">DATA FABRIC   <tspan fill="#94a3b8">::</tspan> <tspan fill="#93c5fd">PostgreSQL</tspan> · <tspan fill="#34d399">Supabase</tspan> · <tspan fill="#f43f5e">Redis</tspan> · <tspan fill="#38bdf8">Docker</tspan></text>
 
-      <text x="0" y="164" fill="#64748b">PASSIONS      <tspan fill="#94a3b8">::</tspan> <tspan fill="#f1f5f9">Building Systems · Sound Engineering · Gym</tspan></text>
+      <text x="0" y="178" fill="#64748b">PASSIONS      <tspan fill="#94a3b8">::</tspan> <tspan fill="#f1f5f9">Building Systems · Sound Engineering · Gym</tspan></text>
 
-      <text x="0" y="186" fill="#64748b">STATUS        <tspan fill="#94a3b8">::</tspan> <tspan fill="#34d399">🟢 ONLINE</tspan> <tspan fill="#64748b">|</tspan> <tspan fill="#38bdf8">All Systems Nominal</tspan></text>
+      <text x="0" y="202" fill="#64748b">STATUS        <tspan fill="#94a3b8">::</tspan> <tspan fill="#34d399">🟢 ONLINE</tspan> <tspan fill="#64748b">|</tspan> <tspan fill="#38bdf8">All Systems Nominal</tspan></text>
 
-      <line x1="0" y1="202" x2="415" y2="202" stroke="#1e293b" stroke-width="1"/>
-
-      <!-- Terminal Execution Line -->
-      <text x="0" y="222">
-        <tspan fill="#10b981">aviral@station</tspan><tspan fill="#64748b">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#e2e8f0">$ ./initiate_orbit</tspan>
-      </text>
+      <line x1="0" y1="222" x2="415" y2="222" stroke="#1e293b" stroke-width="1"/>
     </g>
 
     <!-- Memory / Sub-status bar -->
