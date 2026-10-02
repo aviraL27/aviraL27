@@ -1,43 +1,41 @@
 <div align="center">
-  <br/><br/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tmcTV1a3oweWhheWxhdWswaDZxcnl2dGxqeXgxeWgwbHl4dDdmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztinrC3Dyh4mA/giphy.gif" width="400" alt="" />
-</div>
+  <img src="./assets/how-to-fly.jpg" width="280" alt="Aviral Joshi" />
+  <h1>Aviral Joshi</h1>
+  <p>Computer Science undergrad at <b>IIIT Nagpur</b> &bull; Head of Technical Operations at <b>Elevate</b></p>
 
-<br/>
-
-<div align="center">
-  <a href="https://discord.com/users/460646619805646849">
-    <img src="https://img.shields.io/badge/Discord-say%20hi-2b1d16?style=for-the-badge&logo=discord&logoColor=ffb347" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aviral-joshi-a98a67373/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-2b1d16?style=for-the-badge&logo=linkedin&logoColor=ff9d4d" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:aviral270406@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-write%20to%20me-2b1d16?style=for-the-badge&logo=gmail&logoColor=ff6b35" alt="Gmail" />
-  </a>
+  <p>
+    <a href="https://discord.com/users/460646619805646849">
+      <img src="https://img.shields.io/badge/Discord-say%20hi-2b1d16?style=for-the-badge&logo=discord&logoColor=ffb347" alt="Discord" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/aviral-joshi-a98a67373/">
+      <img src="https://img.shields.io/badge/LinkedIn-connect-2b1d16?style=for-the-badge&logo=linkedin&logoColor=ff9d4d" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:aviral270406@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-write%20to%20me-2b1d16?style=for-the-badge&logo=gmail&logoColor=ff6b35" alt="Gmail" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
 ## 👋 About me
 
-I'm a second-year B.Tech Computer Science student at the **Indian Institute of Information Technology Nagpur (IIITN)**, and Head of Technical Operations at **Elevate**, where I lead technical infrastructure, automate developer workflows, and keep our systems running reliably.
-
-My interests are systems programming, scalable backend engineering, and intelligent autonomous software: distributed systems, modern AI tooling, and low-level protocols.
-
-Away from the keyboard: music production, heavy weightlifting, and sound engineering. I like pulling sound designs apart, writing music, and lifting heavy things.
+- 🎓 2nd year B.Tech in Computer Science at **IIIT Nagpur**
+- 🛠️ Head of Technical Operations at **Elevate**
+- 💻 Focus on backend engineering, systems, and developer tooling
+- 🎧 Music production and weightlifting away from the keyboard
 
 <br/>
 
 ## 🧰 What I work with
 
-| Area | What it covers | Tools |
+| Area | Focus | Tools |
 | :--- | :--- | :--- |
 | **Systems** | High-performance code, memory efficiency, algorithm design | <img src="https://img.shields.io/badge/C++-2b1d16?style=flat-square&logo=cplusplus&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Algorithms-2b1d16?style=flat-square&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Linux-2b1d16?style=flat-square&logo=linux&logoColor=ffb347" /> |
 | **Full-stack** | Scalable architecture, reactive UI, API design | <img src="https://img.shields.io/badge/TypeScript-2b1d16?style=flat-square&logo=typescript&logoColor=ffb347" /> <img src="https://img.shields.io/badge/React-2b1d16?style=flat-square&logo=react&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Node.js-2b1d16?style=flat-square&logo=nodedotjs&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Express-2b1d16?style=flat-square&logo=express&logoColor=ffb347" /> |
-| **Infrastructure** | Storage, distributed caching, containerized microservices | <img src="https://img.shields.io/badge/PostgreSQL-2b1d16?style=flat-square&logo=postgresql&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Supabase-2b1d16?style=flat-square&logo=supabase&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Redis-2b1d16?style=flat-square&logo=redis&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Docker-2b1d16?style=flat-square&logo=docker&logoColor=ffb347" /> |
+| **Infrastructure** | Storage layers, caching, containerized services | <img src="https://img.shields.io/badge/PostgreSQL-2b1d16?style=flat-square&logo=postgresql&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Supabase-2b1d16?style=flat-square&logo=supabase&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Redis-2b1d16?style=flat-square&logo=redis&logoColor=ffb347" /> <img src="https://img.shields.io/badge/Docker-2b1d16?style=flat-square&logo=docker&logoColor=ffb347" /> |
 
 <br/>
 
@@ -76,8 +74,10 @@ Away from the keyboard: music production, heavy weightlifting, and sound enginee
 
 ---
 
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aviraL27&label=PROFILE%20VIEWS&color=ff6b35&style=for-the-badge" alt="Profile views" />
   <br/><br/>
-  <sub>Thanks for stopping by. 🔥</sub>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lsNWRmOHY4cTk2OWIwNmF6Y2d0MXRtOHBsNnpoN3JyanFscHp6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A0Zt7yuDULiy4ofmVD/giphy.gif" width="300" alt="Chilling" />
 </div>
