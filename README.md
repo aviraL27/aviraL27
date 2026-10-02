@@ -59,11 +59,11 @@
 ## 📈 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aviraL27&show_icons=true&hide_border=false&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=c678dd&border_color=3e4451&border_radius=8" width="415" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aviraL27&show_icons=true&hide_border=false&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=c678dd&border_color=3e4451&border_radius=8" width="415" alt="GitHub Stats" />
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=aviraL27&background=282c34&border=3e4451&stroke=3e4451&ring=c678dd&fire=61afef&currStreakNum=dcdfe4&sideNums=dcdfe4&currStreakLabel=61afef&sideLabels=abb2bf&dates=5c6370&border_radius=8" width="415" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aviraL27&layout=compact&hide_border=false&bg_color=282c34&title_color=61afef&text_color=abb2bf&border_color=3e4451&border_radius=8" width="380" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraL27&layout=compact&hide_border=false&bg_color=282c34&title_color=61afef&text_color=abb2bf&border_color=3e4451&border_radius=8" width="380" alt="Top Languages" />
 </div>
 
 <br/>
