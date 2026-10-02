@@ -16,10 +16,6 @@
       <img src="https://img.shields.io/badge/Gmail-write%20to%20me-21252b?style=for-the-badge&logo=gmail&logoColor=56b6c2" alt="Gmail" />
     </a>
   </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=aviraL27&label=Profile%20Views&color=61afef&style=flat-square" alt="Profile Views" />
-  </p>
 </div>
 
 <br/>
