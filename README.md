@@ -4,6 +4,10 @@
   <p>Computer Science undergrad at <b>IIIT Nagpur</b> &bull; Head of Technical Operations at <b>Elevate</b></p>
 
   <p>
+    <a href="https://portfolio-aviraljoshi.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-visit%20site-21252b?style=for-the-badge&logo=vercel&logoColor=e5c07b" alt="Portfolio" />
+    </a>
+    &nbsp;
     <a href="https://discord.com/users/460646619805646849">
       <img src="https://img.shields.io/badge/Discord-say%20hi-21252b?style=for-the-badge&logo=discord&logoColor=c678dd" alt="Discord" />
     </a>
